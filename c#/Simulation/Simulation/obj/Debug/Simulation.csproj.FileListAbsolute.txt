@@ -1,0 +1,9 @@
+C:\Users\Dán Imre\Desktop\dolgok\c#\Simulation\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\Dán Imre\Desktop\dolgok\c#\Simulation\Simulation\bin\Debug\Simulation.exe
+C:\Users\Dán Imre\Desktop\dolgok\c#\Simulation\Simulation\bin\Debug\Simulation.pdb
+C:\Users\Dán Imre\Desktop\dolgok\c#\Simulation\Simulation\obj\Debug\Simulation.csprojAssemblyReference.cache
+C:\Users\Dán Imre\Desktop\dolgok\c#\Simulation\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\Dán Imre\Desktop\dolgok\c#\Simulation\Simulation\obj\Debug\Simulation.csproj.GenerateResource.cache
+C:\Users\Dán Imre\Desktop\dolgok\c#\Simulation\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Dán Imre\Desktop\dolgok\c#\Simulation\Simulation\obj\Debug\Simulation.exe
+C:\Users\Dán Imre\Desktop\dolgok\c#\Simulation\Simulation\obj\Debug\Simulation.pdb

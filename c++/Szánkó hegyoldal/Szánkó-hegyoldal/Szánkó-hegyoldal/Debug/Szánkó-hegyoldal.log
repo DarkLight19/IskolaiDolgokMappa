@@ -1,0 +1,12 @@
+﻿  Szánkó-hegyoldal.cpp
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(66,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(74,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal\Szánkó-hegyoldal.cpp(116,24): warning C4018: '<': signed/unsigned mismatch
+  Szánkó-hegyoldal.vcxproj -> C:\Users\Dán Imre\Desktop\dolgok\c++\Szánkó hegyoldal\Szánkó-hegyoldal\Debug\Szánkó-hegyoldal.exe

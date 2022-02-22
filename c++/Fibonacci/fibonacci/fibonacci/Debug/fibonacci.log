@@ -1,0 +1,4 @@
+﻿  fibonacci.cpp
+C:\Users\Dán Imre\Desktop\dolgok\c++\Fibonacci\fibonacci\fibonacci\fibonacci.cpp(23,31): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Dán Imre\Desktop\dolgok\c++\Fibonacci\fibonacci\fibonacci\fibonacci.cpp(31,15): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  fibonacci.vcxproj -> C:\Users\Dán Imre\Desktop\dolgok\c++\Fibonacci\fibonacci\Debug\fibonacci.exe

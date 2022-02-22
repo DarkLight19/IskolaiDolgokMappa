@@ -1,0 +1,7 @@
+﻿  Kerekparverseny.cpp
+C:\Users\Dán Imre\Desktop\dolgok\c++\szánkó csapdákkal\Kerekparverseny\Kerekparverseny\Kerekparverseny.cpp(56,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\szánkó csapdákkal\Kerekparverseny\Kerekparverseny\Kerekparverseny.cpp(63,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\szánkó csapdákkal\Kerekparverseny\Kerekparverseny\Kerekparverseny.cpp(76,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\szánkó csapdákkal\Kerekparverseny\Kerekparverseny\Kerekparverseny.cpp(83,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\dolgok\c++\szánkó csapdákkal\Kerekparverseny\Kerekparverseny\Kerekparverseny.cpp(85,19): warning C4018: '>=': signed/unsigned mismatch
+  Kerekparverseny.vcxproj -> C:\Users\Dán Imre\Desktop\dolgok\c++\szánkó csapdákkal\Kerekparverseny\Debug\Kerekparverseny.exe
