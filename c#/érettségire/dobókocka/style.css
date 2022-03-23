@@ -1,0 +1,36 @@
+/*
+#f0f8ff vilagoskek
+#dc143c sotetpiros
+#00008b sotetkek
+*/
+
+body{
+    background-image: url('bg.png');
+    font-family: Verdana;
+    color: #00008b;
+    align-self: center;
+}
+
+a{
+    color:#dc143c;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f0f8ff;
+}
+
+td{
+    width: 310px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h1,h2{
+    color:#dc143c;
+}
+
+h2{
+    font-size: 17px;
+}
