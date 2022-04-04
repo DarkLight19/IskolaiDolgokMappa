@@ -1,0 +1,4 @@
+﻿  Fizeto.cpp
+C:\Users\Dán Imre\Desktop\2021.10.11 Doga\Fizetos\Fizeto\Fizeto\Fizeto.cpp(61,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dán Imre\Desktop\2021.10.11 Doga\Fizetos\Fizeto\Fizeto\Fizeto.cpp(63,30): warning C4018: '<': signed/unsigned mismatch
+  Fizeto.vcxproj -> C:\Users\Dán Imre\Desktop\2021.10.11 Doga\Fizetos\Fizeto\Debug\Fizeto.exe
